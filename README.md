@@ -1,2 +1,0 @@
-# farzan-repository
-for Coursera 
